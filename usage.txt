@@ -1,0 +1,14 @@
+Welcome to Santa Claus Hunter!
+
+Usage:
+./my_hunter : launch the game.
+./my_hunter -h : usage file.
+
+The goal is to shoot a maximum of times Santa Claus without missing him !
+Everytime you miss him you lose one bullet, and you got 3 lifes of 3 bullet each.
+
+You can see your life at the top left of your screen while you play.
+At the bottom right you can see your number of bullet left.
+At the top left, you can see your actual score, and the biggest score ever scored.
+
+Have fun playing!
